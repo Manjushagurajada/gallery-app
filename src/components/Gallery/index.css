@@ -1,0 +1,29 @@
+.container {
+  height: 100vh;
+  font-family: 'Roboto';
+  padding: 20px;
+}
+
+.gallery-container {
+  margin: 20px;
+}
+
+.image {
+  height: 700px;
+  width: 1000px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.unordered-list {
+  display: flex;
+  flex-direction: row;
+}
+
+.heading {
+  margin-left: 50px;
+}
+
+.description {
+  margin-left: 50px;
+}
